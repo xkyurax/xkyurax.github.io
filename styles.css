@@ -65,6 +65,10 @@ a {
   transform: scale(1.02);
 }
 
+.share-button:hover {
+  cursor: pointer;
+}
+
 .tile-share-button {
   margin: 8px;
   width: 40px;
